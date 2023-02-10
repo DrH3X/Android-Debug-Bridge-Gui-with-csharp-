@@ -8,3 +8,5 @@ this project is integrated with the mtkclient opensource project
 https://github.com/bkerler/mtkclient
 # how to run tool:
 to run the tool go to : DrH3x_Phone_Tool\bin\Debug\DrH3x_Phone_Tool.exe
+# requirments : 
+python 
