@@ -6,7 +6,10 @@ adb option connect to device throug usb cable , you can convert your connection 
 also this tool support mtk option you can format read and dump partition for android device pased on mtk processor and other operation include remove frp and mi account,lock and unlock bootloader 
 this project is integrated with the mtkclient opensource project 
 https://github.com/bkerler/mtkclient
+![c1](https://user-images.githubusercontent.com/89396186/218317559-607c2305-296c-417a-96fc-bba1a8ed14ec.PNG)
+![C2](https://user-images.githubusercontent.com/89396186/218317567-52a4e0e3-13ff-425d-be0b-4a2125f16f39.PNG)
 # how to run tool:
 to run the tool go to : DrH3x_Phone_Tool\bin\Debug\DrH3x_Phone_Tool.exe
 # requirments : 
 python 
+
